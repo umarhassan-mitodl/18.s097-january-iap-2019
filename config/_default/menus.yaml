@@ -1,0 +1,54 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: addff422-3f28-590f-1a79-215c3f3bbe6d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 62f47a60-81c1-bc70-c31f-ecedca0d734e
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
+  name: Lecture Videos and Readings
+  pageRef: /pages/lecture-videos-and-readings/
+  weight: 30
+- identifier: b6d27364-52fb-f6e9-8330-e576e21fa70a
+  name: 'Chapter 1: Generative Effects: Orders and Adjunctions'
+  pageRef: /pages/lecture-videos-and-readings/chapter-1-generative-effects-orders-and-adjunctions
+  parent: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
+  weight: 40
+- identifier: 1e6c6483-8234-095e-05a6-07b7332ef4a0
+  name: 'Chapter 2: Resources: Monoidal Preorders and Enrichment'
+  pageRef: /pages/lecture-videos-and-readings/chapter-2-resources-monoidal-preorders-and-enrichment
+  parent: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
+  weight: 50
+- identifier: 1c507f98-6ad7-62ae-d8c3-737d2c80a44c
+  name: 'Chapter 3: Databases: Categories, Functors, and (Co)Limits'
+  pageRef: /pages/lecture-videos-and-readings/chapter-3-databases-categories-functors-and-co-limits
+  parent: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
+  weight: 60
+- identifier: ffa547eb-d3d1-1471-23d0-4bdd3a2744d2
+  name: 'Chapter 4: Co-design: Profunctors and Monoidal Categories'
+  pageRef: /pages/lecture-videos-and-readings/chapter-4-co-design-profunctors-and-monoidal-categories
+  parent: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
+  weight: 70
+- identifier: ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a
+  name: 'Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs'
+  pageRef: /pages/lecture-videos-and-readings/chapter-5-signal-flow-graphs-props-presentations-and-proofs
+  parent: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
+  weight: 80
+- identifier: f4557088-53f4-aeba-64ea-3468ad171973
+  name: 'Chapter 6: Circuits: Hypergraph Categories and Operads'
+  pageRef: /pages/lecture-videos-and-readings/chapter-6-circuits-hypergraph-categories-and-operads
+  parent: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
+  weight: 90
+- identifier: 1c3eb217-3942-01a7-1b3e-722b1297579a
+  name: 'Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages'
+  pageRef: /pages/lecture-videos-and-readings/chapter-7-logic-of-behavior-sheaves-toposes-languages
+  parent: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
+  weight: 100
+- identifier: 557567ee-c6f8-f754-667c-49b74c81e23a
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 110
