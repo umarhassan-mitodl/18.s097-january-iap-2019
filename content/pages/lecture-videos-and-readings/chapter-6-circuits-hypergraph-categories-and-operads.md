@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes videos, notes, and homework for sessions 11 and
   12.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lecture Videos and Readings
@@ -28,7 +26,7 @@ Lecture Videos
 
 Session 11
 
-[Chapter 6: Circuits: Hypergraph Categories and Operads Part 1](https://www.youtube.com/watch?v=JUiHg_F_v1o&index=11&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{% resource_link "cec71c4c-ebfd-4d62-9036-5744138e7616" "Chapter 6: Circuits: Hypergraph Categories and Operads Part 1" %}}
 
 by Dr. David I. Spivak
 
@@ -48,7 +46,7 @@ by Dr. David I. Spivak
 
 Session 12
 
-[Chapter 6: Circuits: Hypergraph Categories and Operads Part 2](https://www.youtube.com/watch?v=4HoNfw7XCKU&index=12&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{% resource_link "31459330-3b4d-4db4-80d4-fc9e2b84da62" "Chapter 6: Circuits: Hypergraph Categories and Operads Part 2" %}}
 
 by Dr. Brendan Fong
 

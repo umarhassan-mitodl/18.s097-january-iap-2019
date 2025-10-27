@@ -26,7 +26,7 @@ Lecture Videos
 
 Session 7
 
-[Chapter 4: Co-design: Profunctors and Monoidal Categories Part 1](https://www.youtube.com/watch?v=4Uqgsy3zrjs&index=7&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{% resource_link "068788de-3b11-4ec2-b245-c9dd55732cb3" "Chapter 4: Co-design: Profunctors and Monoidal Categories Part 1" %}}
 
 by Dr. David I. Spivak
 
@@ -46,7 +46,7 @@ by Dr. David I. Spivak
 
 Session 8
 
-[Chapter 4: Co-design: Profunctors and Monoidal Categories Part 2](https://www.youtube.com/watch?v=92Xp1z9PwJM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=8)
+{{% resource_link "aced739c-744e-435c-92a7-e85c3ce76da8" "Chapter 4: Co-design: Profunctors and Monoidal Categories Part 2" %}}
 
 by Dr. Brendan Fong
 

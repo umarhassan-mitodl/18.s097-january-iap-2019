@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes videos, notes, and homework for sessions 3 and
   4.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lecture Videos and Readings
@@ -28,7 +26,7 @@ Lecture Videos
 
 Session 3
 
-[Chapter 2: Resources: Monoidal Preorders and Enrichment Part 1](https://www.youtube.com/watch?v=Cf3tsAeGhBg&index=3&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{% resource_link "a56cf174-114a-4011-9582-83f826e03d5a" "Chapter 2: Resources: Monoidal Preorders and Enrichment Part 1" %}}
 
 by Dr. David I. Spivak
 
@@ -48,7 +46,7 @@ by Dr. David I. Spivak
 
 Session 4
 
-[Chapter 2: Resources: Monoidal Preorders and Enrichment Part 2](https://www.youtube.com/watch?v=DvI3jzFNbEU&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=4)
+{{% resource_link "25048c10-5e56-4142-af1d-8d94e68d841b" "Chapter 2: Resources: Monoidal Preorders and Enrichment Part 2" %}}
 
 by Dr. Brendan Fong
 

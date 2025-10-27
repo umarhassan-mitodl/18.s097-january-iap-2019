@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes videos, notes, and homework for sessions 9 and
   10.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lecture Videos and Readings
@@ -28,7 +26,7 @@ Lecture Videos
 
 Session 9
 
-[Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 1](https://www.youtube.com/watch?v=33yVpzPOLjM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=9)
+{{% resource_link "3dfbe582-d73a-477a-8f2a-87b0dccb4376" "Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 1" %}}
 
 by Dr. David I. Spivak
 
@@ -48,7 +46,7 @@ by Dr. David I. Spivak
 
 Session 10
 
-[Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 2](https://www.youtube.com/watch?v=0tnqd29TY9w&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=10)
+{{% resource_link "cf1f2295-c617-4ffc-ba88-f45f24944ad2" "Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 2" %}}
 
 by Dr. Brendan Fong
 

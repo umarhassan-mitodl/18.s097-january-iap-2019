@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section includes videos, notes, and homework for sessions 5 and
   6.  '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lecture Videos and Readings
@@ -28,7 +26,7 @@ Lecture Videos
 
 Session 5
 
-[Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 1](https://www.youtube.com/watch?v=T2vge38STok&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6&t=403s)
+{{% resource_link "b804e343-ebdf-4ba0-a202-95522d80ea78" "Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 1" %}}
 
 by Dr. David I. Spivak
 
@@ -48,7 +46,7 @@ by Dr. David I. Spivak
 
 Session 6
 
-[Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 2](https://www.youtube.com/watch?v=uqxy5MZrQtI&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6)
+{{% resource_link "d11abca6-e743-4057-93bf-99e2a19d2b99" "Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 2" %}}
 
 by Dr. Brendan Fong
 

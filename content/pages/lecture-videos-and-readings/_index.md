@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This is the landing page of the section of lecture videos and readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Videos and Readings
@@ -13,7 +11,7 @@ This course is based on the textbook:
 
 Fong, B. and D. I. Spivak. _An Invitation to Applied Category Theory: Seven Sketches in Compositionality_. Cambridge University Press, 2019. ISBN: 9781108482295.
 
-An [online version](https://arxiv.org/abs/1803.05316) is freely available on Cornell University’s arXiv.org e-Print archive site as well as from OCW as a single file: {{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
+An {{% resource_link "42a82b37-56ef-4d05-838a-8aefe4408788" "online version" %}} is freely available on Cornell University’s arXiv.org e-Print archive site as well as from OCW as a single file: {{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

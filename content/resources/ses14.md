@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-s097-applied-category-theory-january-iap-2019/e8bd272b6fd6be21d7996ee0ae3117ab_ses14.jpg
 file_size: 38958
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

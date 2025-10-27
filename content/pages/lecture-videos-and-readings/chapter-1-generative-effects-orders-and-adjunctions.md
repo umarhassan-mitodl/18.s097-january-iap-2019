@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes videos, notes, and homework for sessions 1 and
   2.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lecture Videos and Readings
@@ -28,7 +26,7 @@ Lecture Videos
 
 Session 1
 
-[Chapter 1: Generative Effects: Orders and Adjunctions Part 1](https://www.youtube.com/watch?v=UusLtx9fIjs&t=525s&index=2&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{% resource_link "4527c17b-50ad-468c-9222-3d91d9c66813" "Chapter 1: Generative Effects: Orders and Adjunctions Part 1" %}}
 
 by Dr. David I. Spivak
 
@@ -48,7 +46,7 @@ by Dr. David I. Spivak
 
 Session 2
 
-[Chapter 1: Generative Effects: Orders and Adjunctions Part 2](https://www.youtube.com/watch?v=2BYl7NgHjvc&index=2&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{% resource_link "5906fae9-8536-4226-9fa7-37c34d4ad972" "Chapter 1: Generative Effects: Orders and Adjunctions Part 2" %}}
 
 by Dr. Brendan Fong
 

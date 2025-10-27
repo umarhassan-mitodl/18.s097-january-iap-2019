@@ -30,7 +30,6 @@
     "website": "18-s097-applied-category-theory-january-iap-2019"
   },
   "course_title": "Applied Category Theory ",
-  "hide_download": true,
   "course_description": "Category theory is a relatively new branch of mathematics that has transformed much of pure math research. The technical advance is that category theory provides a framework in which to organize formal systems and by which to translate between them, allowing one to transfer knowledge from one field to another. But this same organizational framework also has many compelling examples outside of pure math. In this course, we will give seven sketches on real-world applications of category theory.\n",
   "department_numbers": [
     "18"
@@ -41,7 +40,6 @@
     "content": "ba1f6e3b-1d0c-43e4-c0b4-320a18bdec91",
     "website": "18-s097-applied-category-theory-january-iap-2019"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
